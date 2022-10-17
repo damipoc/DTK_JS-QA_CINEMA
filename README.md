@@ -1,7 +1,14 @@
-Coverage: 80.20%
+
+<h1>
+<p align="center">
+  <img src="https://i.imgur.com/OyNEsUY.png" alt="Logo" width="360">
+  <br>
+</h1>
 
 ## Final Project - QA Cinemas
 For this group project we created a MERN stack web application for our QA cinema's website. This was connected to a backend database using MongoDB Cloud Atlas which allowed us to record films and customer bookings.
+
+<b>[Live version of the website using GCP](https://qacinemafront-365816.ew.r.appspot.com/)</b>
 
 # Aim
 The aim of the project was to develop a full stack application where users can navigate through the website and make bookings for movies, viweing latest releases, view current movies showing, accessing how to get to QA cinema, viewing an about us page, make comments and rate movies they've seen on our discussion board, checking for film classifications before making a booking and we also implemented a page where we have provided a places to go page around the area for activities and tourists attractions within the area
